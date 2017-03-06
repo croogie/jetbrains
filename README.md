@@ -18,8 +18,8 @@ File `JetBrains.mm` can be opened using FreeMind software which is OpenSource. I
 
 ### 2. TODO
 
-[] Add github version.
-[] Host on github pages.
+- [ ] Add github version.
+- [ ] Host on github pages.
 
 ### 3. Changelog
 
