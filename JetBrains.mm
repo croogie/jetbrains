@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1486718560778" ID="ID_1068862621" MODIFIED="1487843874928" STYLE="fork">
+<node CREATED="1486718560778" ID="ID_1068862621" MODIFIED="1488882098651" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -11,120 +11,11 @@
 </html></richcontent>
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="Lucida Sans" SIZE="14"/>
-<node CREATED="1486718575338" FOLDED="true" ID="ID_1096263369" MODIFIED="1488881715498" POSITION="right" TEXT="Plugins">
-<font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1486718588844" FOLDED="true" ID="ID_776072268" MODIFIED="1488550824294" TEXT="Key Promoter">
-<font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1486726866380" ID="ID_912217195" MODIFIED="1486726882127">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <img src="screenshots/key-promoter.gif" />
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1487857703156" ID="ID_650815175" MODIFIED="1487857714035">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <img src="screenshots/key-promoter.png" />
-  </body>
-</html></richcontent>
-</node>
-</node>
-<node CREATED="1486718748458" FOLDED="true" ID="ID_1979715997" MODIFIED="1488550911174" TEXT="Settings Repository">
-<font NAME="SansSerif" SIZE="12"/>
-<node BACKGROUND_COLOR="#333333" COLOR="#ffffff" CREATED="1487843517776" ID="ID_1085127463" MODIFIED="1487843549596" STYLE="bubble" TEXT="https://github.com/croogie/settings-repository">
-<font NAME="Monaco" SIZE="10"/>
-</node>
-</node>
-<node CREATED="1486718797506" FOLDED="true" ID="ID_307835683" MODIFIED="1488550893749" TEXT="AceJump">
-<font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1486726738087" ID="ID_123896604" MODIFIED="1486726744183">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <img src="screenshots/ace-jump.gif" />
-  </body>
-</html></richcontent>
-</node>
-<node BACKGROUND_COLOR="#333333" COLOR="#ffffff" CREATED="1486726915133" ID="ID_1583164810" MODIFIED="1486726958455" STYLE="bubble" TEXT="CTRL + ;">
-<font NAME="Monaco" SIZE="10"/>
-</node>
-</node>
-<node CREATED="1486718928171" FOLDED="true" ID="ID_1174862816" MODIFIED="1488550903327" TEXT="CodeGlance">
-<font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1486726587549" ID="ID_1135006113" MODIFIED="1486726594863">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <img src="screenshots/code-glance.gif" />
-  </body>
-</html></richcontent>
-</node>
-</node>
-</node>
-<node CREATED="1486724741863" FOLDED="true" ID="ID_387048316" MODIFIED="1488881793957" POSITION="right" TEXT="Learn your IDE">
-<font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1486727225259" FOLDED="true" ID="ID_1494639788" MODIFIED="1488881776166" TEXT="Find action...">
-<font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1486727232549" ID="ID_1277505464" MODIFIED="1486727241230">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <img src="screenshots/action-search.gif" />
-  </body>
-</html></richcontent>
-</node>
-<node BACKGROUND_COLOR="#333333" COLOR="#ffffff" CREATED="1486727257672" ID="ID_1353957345" MODIFIED="1486727291008" STYLE="bubble" TEXT="CMD + SHIFT + A">
-<font NAME="Monaco" SIZE="10"/>
-</node>
-<node BACKGROUND_COLOR="#333333" COLOR="#ffffff" CREATED="1488548216943" ID="ID_1401506119" MODIFIED="1488548239341" STYLE="bubble" TEXT="Help menu &gt; Find action...">
-<font NAME="Monaco" SIZE="10"/>
-</node>
-</node>
-<node CREATED="1486724746528" FOLDED="true" ID="ID_1942012118" MODIFIED="1488551175313" TEXT="Tip of the day">
-<font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1486726368981" ID="ID_415082007" MODIFIED="1486726375796">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <img src="screenshots/Tip_of_the_Day_i_contentClassificationApi_js_-_frontend_-____git_work_egnyte_platform_modules_frontend__-_PhpStorm_2017_1_EAP.png" />
-  </body>
-</html></richcontent>
-</node>
-</node>
-<node CREATED="1486725030777" FOLDED="true" ID="ID_1145135479" MODIFIED="1488881778421" TEXT="Productivity Guide">
-<font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1486725059501" ID="ID_229717001" MODIFIED="1486725066002">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <img src="screenshots/Productivity_Guide_i_contentClassificationApi_js_-_frontend_-____git_work_egnyte_platform_modules_frontend__-_PhpStorm_2017_1_EAP.png" />
-  </body>
-</html></richcontent>
-</node>
-</node>
-</node>
-<node CREATED="1486718987002" FOLDED="true" ID="ID_1478898120" MODIFIED="1488881714023" POSITION="left" TEXT="Work">
+<node CREATED="1486718987002" HGAP="34" ID="ID_1478898120" MODIFIED="1488882352758" POSITION="right" TEXT="Work" VSHIFT="-35">
 <edge STYLE="bezier"/>
-<font NAME="SansSerif" SIZE="14"/>
-<node CREATED="1486718990634" FOLDED="true" ID="ID_1187556083" MODIFIED="1488879538190" TEXT="GIT">
-<font NAME="SansSerif" SIZE="12"/>
+<font BOLD="true" NAME="SansSerif" SIZE="20"/>
+<node CREATED="1486718990634" ID="ID_1187556083" MODIFIED="1488882358851" TEXT="GIT">
+<font BOLD="true" NAME="SansSerif" SIZE="15"/>
 <node CREATED="1486940470347" FOLDED="true" ID="ID_613009534" MODIFIED="1488879462780" TEXT="VCS Operations">
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1486940692003" FOLDED="true" ID="ID_239295349" MODIFIED="1488879446906" TEXT="Context menu">
@@ -275,8 +166,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1486719684361" FOLDED="true" ID="ID_546588620" MODIFIED="1488881710344" TEXT="Editing">
-<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1486719684361" ID="ID_546588620" MODIFIED="1488882359625" TEXT="Editing">
+<font BOLD="true" NAME="SansSerif" SIZE="15"/>
 <node CREATED="1486719702621" FOLDED="true" ID="ID_1944751471" MODIFIED="1488879130333" TEXT="Expand selection">
 <node CREATED="1486727449643" ID="ID_739199421" MODIFIED="1486727455678">
 <richcontent TYPE="NODE"><html>
@@ -317,8 +208,7 @@
   <body>
     <img src="screenshots/context-action.gif" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node BACKGROUND_COLOR="#333333" COLOR="#ffffff" CREATED="1486727963981" ID="ID_1298412574" MODIFIED="1486727975250" STYLE="bubble" TEXT="ALT + Return">
@@ -499,8 +389,7 @@
   <body>
     <img src="screenshots/find-usages-context.gif" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node BACKGROUND_COLOR="#333333" COLOR="#ffffff" CREATED="1488879709697" ID="ID_360598475" MODIFIED="1488879721435" STYLE="bubble" TEXT="CMD+ALT+F7">
 <font NAME="Monaco" SIZE="10"/>
@@ -547,8 +436,7 @@
   <body>
     <img src="screenshots/join-lines.gif" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node BACKGROUND_COLOR="#333333" COLOR="#ffffff" CREATED="1487941347800" ID="ID_1136594041" MODIFIED="1487941360195" STYLE="bubble" TEXT="^ + SHIFT + J">
 <font NAME="Monaco" SIZE="10"/>
@@ -556,8 +444,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1486940127884" FOLDED="true" ID="ID_1102707879" MODIFIED="1488879022108" TEXT="Run">
-<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1486940127884" ID="ID_1102707879" MODIFIED="1488882360037" TEXT="Run">
+<font BOLD="true" NAME="SansSerif" SIZE="15"/>
 <node CREATED="1486940134450" FOLDED="true" ID="ID_399335364" MODIFIED="1488550710500" TEXT="Run / Debug configuration">
 <node CREATED="1487248419978" FOLDED="true" ID="ID_234002183" MODIFIED="1487946911404" TEXT="NPM scripts">
 <node CREATED="1487248555351" ID="ID_240579022" MODIFIED="1487248565633">
@@ -584,6 +472,124 @@
 </node>
 </node>
 </node>
+</node>
+</node>
+<node CREATED="1486718575338" HGAP="38" ID="ID_1096263369" MODIFIED="1488882354751" POSITION="right" TEXT="Plugins" VSHIFT="-16">
+<font BOLD="true" NAME="SansSerif" SIZE="17"/>
+<node CREATED="1486718588844" FOLDED="true" ID="ID_776072268" MODIFIED="1488882259774" TEXT="Key Promoter">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1486726866380" ID="ID_912217195" MODIFIED="1486726882127">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="screenshots/key-promoter.gif" />
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1487857703156" ID="ID_650815175" MODIFIED="1487857714035">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="screenshots/key-promoter.png" />
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1486718748458" FOLDED="true" ID="ID_1979715997" MODIFIED="1488882261395" TEXT="Settings Repository">
+<font NAME="SansSerif" SIZE="12"/>
+<node BACKGROUND_COLOR="#333333" COLOR="#ffffff" CREATED="1487843517776" ID="ID_1085127463" MODIFIED="1487843549596" STYLE="bubble" TEXT="https://github.com/croogie/settings-repository">
+<font NAME="Monaco" SIZE="10"/>
+</node>
+</node>
+<node CREATED="1486718797506" FOLDED="true" ID="ID_307835683" MODIFIED="1488882263811" TEXT="AceJump">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1486726738087" ID="ID_123896604" MODIFIED="1486726744183">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="screenshots/ace-jump.gif" />
+  </body>
+</html></richcontent>
+</node>
+<node BACKGROUND_COLOR="#333333" COLOR="#ffffff" CREATED="1486726915133" ID="ID_1583164810" MODIFIED="1486726958455" STYLE="bubble" TEXT="CTRL + ;">
+<font NAME="Monaco" SIZE="10"/>
+</node>
+</node>
+<node CREATED="1486718928171" FOLDED="true" ID="ID_1174862816" MODIFIED="1488882265660" TEXT="CodeGlance">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1486726587549" ID="ID_1135006113" MODIFIED="1486726594863">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="screenshots/code-glance.gif" />
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1486724741863" HGAP="25" ID="ID_387048316" MODIFIED="1488882356055" POSITION="right" TEXT="Learn your IDE" VSHIFT="20">
+<font BOLD="true" NAME="SansSerif" SIZE="15"/>
+<node CREATED="1486727225259" FOLDED="true" ID="ID_1494639788" MODIFIED="1488882273576" TEXT="Find action...">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1486727232549" ID="ID_1277505464" MODIFIED="1486727241230">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="screenshots/action-search.gif" />
+  </body>
+</html></richcontent>
+</node>
+<node BACKGROUND_COLOR="#333333" COLOR="#ffffff" CREATED="1486727257672" ID="ID_1353957345" MODIFIED="1486727291008" STYLE="bubble" TEXT="CMD + SHIFT + A">
+<font NAME="Monaco" SIZE="10"/>
+</node>
+<node BACKGROUND_COLOR="#333333" COLOR="#ffffff" CREATED="1488548216943" ID="ID_1401506119" MODIFIED="1488548239341" STYLE="bubble" TEXT="Help menu &gt; Find action...">
+<font NAME="Monaco" SIZE="10"/>
+</node>
+</node>
+<node CREATED="1486724746528" FOLDED="true" ID="ID_1942012118" MODIFIED="1488551175313" TEXT="Tip of the day">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1486726368981" ID="ID_415082007" MODIFIED="1486726375796">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="screenshots/Tip_of_the_Day_i_contentClassificationApi_js_-_frontend_-____git_work_egnyte_platform_modules_frontend__-_PhpStorm_2017_1_EAP.png" />
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1486725030777" FOLDED="true" ID="ID_1145135479" MODIFIED="1488881778421" TEXT="Productivity Guide">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1486725059501" ID="ID_229717001" MODIFIED="1486725066002">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="screenshots/Productivity_Guide_i_contentClassificationApi_js_-_frontend_-____git_work_egnyte_platform_modules_frontend__-_PhpStorm_2017_1_EAP.png" />
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1488881937280" FOLDED="true" ID="ID_1372077475" MODIFIED="1488882340325" POSITION="left" TEXT="About">
+<font BOLD="true" NAME="SansSerif" SIZE="15"/>
+<node CREATED="1488882054031" FOLDED="true" ID="ID_827180493" MODIFIED="1488882336860" TEXT="Github">
+<node CREATED="1488882058551" ID="ID_1681870200" LINK="https://github.com/croogie/jetbrains" MODIFIED="1488882082960" TEXT="https://github.com/croogie/jetbrains"/>
+</node>
+<node CREATED="1488881972403" FOLDED="true" ID="ID_251188238" MODIFIED="1488882224359" TEXT="Questions / Requests?">
+<node CREATED="1488881979962" ID="ID_1456114598" LINK="https://github.com/croogie/jetbrains/issues/new" MODIFIED="1488882088613" TEXT="https://github.com/croogie/jetbrains/issues/new"/>
 </node>
 </node>
 </node>
